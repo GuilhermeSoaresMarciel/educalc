@@ -1,3 +1,4 @@
-EduCalc é uma calculadora de notas escolares profissional, desenvolvida para auxiliar educadores no processo de gestão e cálculo de notas, tornando a administração dos dados acadêmicos mais prática, precisa e eficiente.
+**EduCalc** é uma calculadora profissional de notas escolares, desenvolvida para auxiliar educadores na gestão e no cálculo de notas, tornando a administração dos dados acadêmicos mais prática, precisa e eficiente.
 
-Access:https://guilhermesoaresmarciel.github.io/EDUCALC/
+**Acesse o projeto:**  
+https://guilhermesoaresmarciel.github.io/EDUCALC/
